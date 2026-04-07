@@ -1,0 +1,7 @@
+# Dataset
+dataset/*/
+dataset/*.csv
+dataset/*.zip
+
+# Virtual environment
+env
